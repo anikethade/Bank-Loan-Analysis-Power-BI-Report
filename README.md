@@ -1,6 +1,6 @@
 # Bank-Loan-Analysis-Power-BI-Report
 
-****PROBLEM STATEMENT**
+**PROBLEM STATEMENT**
 
 **BANK LOAN ANALYSIS REPORT: SUMMARY**
 
